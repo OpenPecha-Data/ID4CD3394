@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1CZ1982
   title: དྲང་ངེས་ལེགས་བཤད་སྙིང་པོའི་དཀའ་འགྲེལ་
-  volume: ''
+  volume:
+    176f18c853f34a988a59c02c5c16fd09:
+      image_group_id: I1CZ2007
+      title: Volume 1 of drang nges legs bshad snying po'i dka' 'grel
+      volume_number: 1
+      total_pages: 94
   author: ''
+ebook_metadata:
+  title: དྲང་ངེས་ལེགས་བཤད་སྙིང་པོའི་དཀའ་འགྲེལ་
+  author: ''
+  sku: P000414
+  cover: cover.jpg
+  layers:
+  - pagination
